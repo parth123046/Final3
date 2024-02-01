@@ -17,17 +17,22 @@ function checkBirthdays(data) {
 
     let birthdayListHTML = '';
 
-    data.forEach(person => {
-        if (person.birthday === todayFormatted) {
-            birthdayListHTML += `
-                <div class="birthday">
-                    <p><span class="name">${person.name}</span> from class ${person.class} section ${person.section} is celebrating their birthday today! 🎉🎂</p>
-                </div>
-            `;
-        }
-    });
+    const matchingBirthdays = data.filter(person => person.birthday === todayFormatted);
 
-    if (birthdayListHTML === '') {
+    if (matchingBirthdays.length === 1) {
+        const person = matchingBirthdays[0];
+        birthdayListHTML = `
+            <div class="birthday">
+                <p><span class="name">${person.name}</span> from class ${person.class} section ${person.section} is celebrating their birthday today! 🎉🎂</p>
+            </div>
+        `;
+    } else if (matchingBirthdays.length > 1) {
+        birthdayListHTML = '<div class="birthday"><p>Celebrating birthdays today:</p>';
+        matchingBirthdays.forEach(person => {
+            birthdayListHTML += `<p><span class="name">${person.name}</span> from class ${person.class} section ${person.section}</p>`;
+        });
+        birthdayListHTML += '</div>';
+    } else {
         birthdayListHTML = '<p>No birthdays today!</p>';
     }
 
