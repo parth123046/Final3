@@ -1,35 +1,36 @@
-const birthdays = [
-    {
-        name: "Jon Doe",
-        birthday: "2000-02-01",
-        class: "10",
-        section: "A"
-    },
-    {
-        name: "Jane Doe",
-        birthday: "2000-01-02",
-        class: "11",
-        section: "B"
-    }
-];
+document.addEventListener('DOMContentLoaded', function() {
+    const birthdays = [
+        { name: 'John Doe', birthday: '29-01', class: 'X', section: 'A' },
+        { name: 'Jane Smith', birthday: '15-05', class: 'XI', section: 'B' },
+        { name: 'Michael Johnson', birthday: '10-12', class: 'XII', section: 'C' },
+        { name: 'Alice Johnson', birthday: '01-02', class: 'IX', section: 'D' } // Added birthday for 1st February
+    ];
 
-const today = new Date();
-const dd = String(today.getDate()).padStart(2, '0');
-const mm = String(today.getMonth() + 1).padStart(2, '0');
-const todayDate = `${dd}-${mm}`;
-
-const birthdayCard = document.querySelector('.birthday-card');
-const nameElement = document.getElementById('name');
-const birthdayElement = document.getElementById('birthday');
-
-birthdays.forEach(birthday => {
-    const birthdayDate = new Date(birthday.birthday);
-    const birthdayDateFormatted = `${String(birthdayDate.getDate()).padStart(2, '0')}-${String(birthdayDate.getMonth() + 1).padStart(2, '0')}`;
-
-    if (birthdayDateFormatted === todayDate) {
-        birthdayCard.style.display = 'block';
-        nameElement.textContent = `Name: ${birthday.name}`;
-        birthdayElement.textContent = `Birthday: ${birthdayDateFormatted}`;
-        document.body.appendChild(birthdayCard);
-    }
+    checkBirthdays(birthdays);
 });
+
+function checkBirthdays(data) {
+    const today = new Date();
+    const dd = String(today.getDate()).padStart(2, '0');
+    const mm = String(today.getMonth() + 1).padStart(2, '0'); // January is 0!
+    const todayFormatted = dd + '-' + mm;
+
+    let birthdayListHTML = '';
+
+    data.forEach(person => {
+        if (person.birthday === todayFormatted) {
+            birthdayListHTML += `
+                <div class="birthday">
+                    <p><span class="name">${person.name}</span> from class ${person.class} section ${person.section} is celebrating their birthday today! 🎉🎂</p>
+                    <p>Birthday: ${person.birthday}</p>
+                </div>
+            `;
+        }
+    });
+
+    if (birthdayListHTML === '') {
+        birthdayListHTML = '<p>No birthdays today!</p>';
+    }
+
+    document.getElementById('birthdayList').innerHTML = birthdayListHTML;
+}
