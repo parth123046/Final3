@@ -22,7 +22,6 @@ function checkBirthdays(data) {
             birthdayListHTML += `
                 <div class="birthday">
                     <p><span class="name">${person.name}</span> from class ${person.class} section ${person.section} is celebrating their birthday today! 🎉🎂</p>
-                    
                 </div>
             `;
         }
