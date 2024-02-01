@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const birthdays = [
         { name: 'John Doe', birthday: '29-01', class: 'X', section: 'A' },
         { name: 'Jane Smith', birthday: '15-05', class: 'XI', section: 'B' },
-        { name: 'Michael Johnson', birthday: '10-12', class: 'XII', section: 'C' },
+        { name: 'Michael Johnson', birthday: '01-02', class: 'XII', section: 'C' },
         { name: 'Alice Johnson', birthday: '01-02', class: 'IX', section: 'D' } // Added birthday for 1st February
     ];
 
