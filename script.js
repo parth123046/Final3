@@ -7,7 +7,7 @@ const birthdays = [
     },
     {
         name: "Jane Doe",
-        birthday: "15-02",
+        birthday: "1-02",
         class: "11",
         section: "B"
     }
