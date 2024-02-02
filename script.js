@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: "AARVIKA KSHITIJ TARGE", birthday: "02-03" },
         { name: "ANAYRA ADITYA VENUGOPAL", birthday: "19-02" },
         { name: "HARSHIT MANISH TATIYA", birthday: "21-04" },
-        { name: "TASHVIKA AKASH SACHDEV", birthday: "01-02" },
+        { name: "TASHVIKA AKASH SACHDEV", birthday: "02-02" },
         { name: "AARYA YASHWANT SONAWANE", birthday: "08-01" },
         { name: "ANUP AMOL GITE", birthday: "20-04" },
         { name: "GARGI HANSRAJ DEORE", birthday: "27-05" },
