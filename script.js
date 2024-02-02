@@ -3,9 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'John Doe', birthday: '29-01'},                         //student data
         { name: 'Jane Smith', birthday: '15-05'},
         { name: 'Michael Johnson', birthday: '02-02'},
-        { name: 'Alice Johnson', birthday: '02-02'} 
-    
-        { name: "AARVIKA KSHITIJ TARGE", birthday: "02-03" },
+        { name: 'Alice Johnson', birthday: '02-02'}
+        { name: 'AARVIKA KSHITIJ TARGE', birthday: '02-02' },
         { name: "ANAYRA ADITYA VENUGOPAL", birthday: "19-02" },
         { name: "HARSHIT MANISH TATIYA", birthday: "21-04" },
         { name: "TASHVIKA AKASH SACHDEV", birthday: "02-02" },
