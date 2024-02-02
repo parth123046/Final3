@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const birthdays = [
         { name: 'John Doe', birthday: '29-01' },
         { name: 'Jane Smith', birthday: '15-05' },
-        { name: 'Michael Johnson', birthday: '02-12' },
+        { name: 'Michael Johnson', birthday: '02-02' },
         { name: 'Alice Johnson', birthday: '02-02' } 
     ];
 
