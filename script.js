@@ -23,13 +23,13 @@ function checkBirthdays(data) {
         const person = matchingBirthdays[0];
         birthdayListHTML = `
             <div class="birthday">
-                <p><span class="name">${person.name}</span>  is celebrating their birthday today! 🎉🎂</p>
+                <p><span class="name">${person.name}</span> is celebrating birthday today! 🎉🎂</p>
             </div>
         `;
     } else if (matchingBirthdays.length > 1) {
         birthdayListHTML = '<div class="birthday"><p>They are celebrating their birthdays today:</p>';
         matchingBirthdays.forEach(person => {
-            birthdayListHTML += `<p><span class="name">${person.name}</span> </p>`;
+            birthdayListHTML += `<p><span class="name">${person.name} 🎉🎂</span>  </p>`;
         });
         birthdayListHTML += '</div>';
     } else {
