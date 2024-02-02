@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Jane Smith', birthday: '15-05'},
         { name: 'Michael Johnson', birthday: '02-02'},
         { name: 'Alice Johnson', birthday: '02-02'} 
-    ];
+    
         { name: "AARVIKA KSHITIJ TARGE", birthday: "02-03" },
         { name: "ANAYRA ADITYA VENUGOPAL", birthday: "19-02" },
         { name: "HARSHIT MANISH TATIYA", birthday: "21-04" },
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: "HRIDYA SUMIT CHORDIYA", birthday: "15-12" },
         { name: "KAVISH PRAVIN GITE", birthday: "10-01" },
         { name: "KAVYANSH DHANRAJ DHATRAK", birthday: "06-03" },
- 
+     ];
     checkBirthdays(birthdays);
 });
 
