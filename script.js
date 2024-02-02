@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     const birthdays = [
-        { name: 'John Doe', birthday: '29-01', class: 'X', section: 'A' },
-        { name: 'Jane Smith', birthday: '15-05', class: 'XI', section: 'B' },
-        { name: 'Michael Johnson', birthday: '01-02', class: 'XII', section: 'C' },
-        { name: 'Alice Johnson', birthday: '01-02', class: 'IX', section: 'D' } // Added birthday for 1st February
+        { name: 'John Doe', birthday: '29-01'},                         //student data
+        { name: 'Jane Smith', birthday: '15-05'},
+        { name: 'Michael Johnson', birthday: '02-02'},
+        { name: 'Alice Johnson', birthday: '02-02'} 
     ];
 
     checkBirthdays(birthdays);
@@ -29,7 +29,7 @@ function checkBirthdays(data) {
     } else if (matchingBirthdays.length > 1) {
         birthdayListHTML = '<div class="birthday"><p> They are celebrating their birthdays today! 🎉🎂 :</p>';
         matchingBirthdays.forEach(person => {
-            birthdayListHTML += `<p><span class="name">${person.name}</span> </p>`;
+            birthdayListHTML += `<p><span class="name">${person.name}🎉🎂</span> </p>`;
         });
         birthdayListHTML += '</div>';
     } else {
