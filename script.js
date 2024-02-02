@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'GARGI HANSRAJ DEORE', birthday: '27-05' },
         { name: 'HRIDYA SUMIT CHORDIYA', birthday: '15-12' },
         { name: 'KAVISH PRAVIN GITE', birthday: '10-01' },
-        { name: 'KAVYANSH DHANRAJ DHATRAK', birthday: '06-03' },
+        { name: 'KAVYANSH DHANRAJ DHATRAK', birthday: '06-03' }
     
    ];
 
