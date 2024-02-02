@@ -15,7 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'KAVISH PRAVIN GITE', birthday: '10-01' },
         { name: 'KAVYANSH DHANRAJ DHATRAK', birthday: '06-03' },
     
-    ];
+   ];
+
     checkBirthdays(birthdays);
 });
 
