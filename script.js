@@ -27,7 +27,7 @@ function checkBirthdays(data) {
             </div>
         `;
     } else if (matchingBirthdays.length > 1) {
-        birthdayListHTML = '<div class="birthday"><p> They are celebrating their birthdays today! 🎉🎂 :</p>';
+        birthdayListHTML = '<div class="birthday"><p> They are celebrating their birthdays today! :</p>';
         matchingBirthdays.forEach(person => {
             birthdayListHTML += `<p><span class="name">${person.name}🎉🎂</span> </p>`;
         });
