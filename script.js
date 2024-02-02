@@ -23,7 +23,7 @@ function checkBirthdays(data) {
         const person = matchingBirthdays[0];
         birthdayListHTML = `
             <div class="birthday">
-                <p><span class="name">${person.name}</span> from class ${person.class} section ${person.section} is celebrating  birthday today! 🎉🎂</p>
+                <p><span class="name">${person.name}</span> is celebrating  birthday today! 🎉🎂</p>
             </div>
         `;
     } else if (matchingBirthdays.length > 1) {
