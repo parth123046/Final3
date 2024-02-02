@@ -3,7 +3,17 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'John Doe', birthday: '29-01', class: 'X', section: 'A' },
         { name: 'Jane Smith', birthday: '15-05', class: 'XI', section: 'B' },
         { name: 'Michael Johnson', birthday: '10-12', class: 'XII', section: 'C' },
-        { name: 'Alice Johnson', birthday: '02-02', class: 'IX', section: 'D' } // Added birthday for 1st February
+        { name: 'Alice Johnson', birthday: '02-02', class: 'IX', section: 'D' } 
+        { name: 'AARVIKA KSHITIJ TARGE', birthday: '02-03' },
+        { name: 'ANAYRA ADITYA VENUGOPAL', birthday: '19-02' },
+        { name: 'HARSHIT MANISH TATIYA', birthday: '21-04' },
+        { name: 'TASHVIKA AKASH SACHDEV', birthday: '02-02' },
+        { name: 'AARYA YASHWANT SONAWANE', birthday: '08-01' },
+        { name: 'ANUP AMOL GITE', birthday: '20-04' },
+        { name: 'GARGI HANSRAJ DEORE', birthday: '27-05' },
+        { name: 'HRIDYA SUMIT CHORDIYA', birthday: '15-12' },
+        { name: 'KAVISH PRAVIN GITE', birthday: '10-01' },
+        { name: 'KAVYANSH DHANRAJ DHATRAK', birthday: '06-03' },// Added birthday for 1st February
     ];
 
     checkBirthdays(birthdays);
