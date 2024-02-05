@@ -1,11 +1,22 @@
 document.addEventListener('DOMContentLoaded', function() {
     const birthdays = [
-        { name: 'John Doe', birthday: '29-01' },
-        { name: 'Jane Smith', birthday: '15-05' },
-        { name: 'Michael Johnson', birthday: '02-02' },
+       
         { name: 'Alice Johnson', birthday: '02-02' },
-        { name: 'AARVIKA KSHITIJ TARGE', birthday:'05-02'}
-    ];
+        { name: 'AARVIKA KSHITIJ TARGE', birthday:'02-03'},
+        { name: 'ANAYRA ADITYA VENUGOPAL', birthday:'19-02'}, 
+        { 'name': 'HARSHIT MANISH TATIYA', 'birthday': '21-04' },
+        { 'name': 'TASHVIKA AKASH SACHDEV', 'birthday': '01-02' },
+        { 'name': 'AARYA YASHWANT SONAWANE', 'birthday': '08-01' },
+        { 'name': 'ANUP AMOL GITE', 'birthday': '20-04' },
+        { 'name': 'GARGI HANSRAJ DEORE', 'birthday': '27-05' },
+        { 'name': 'HRIDYA SUMIT CHORDIYA', 'birthday': '15-12' },
+        { 'name': 'KAVISH PRAVIN GITE', 'birthday': '10-01' } 
+     ];
+    
+
+        
+        
+   
 
     checkBirthdays(birthdays);
 });
