@@ -3,7 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'John Doe', birthday: '29-01' },
         { name: 'Jane Smith', birthday: '15-05' },
         { name: 'Michael Johnson', birthday: '02-02' },
-        { name: 'Alice Johnson', birthday: '02-02' } 
+        { name: 'Alice Johnson', birthday: '02-02' },
+        { name: 'AARVIKA KSHITIJ TARGE', birthday:'05-02'}
     ];
 
     checkBirthdays(birthdays);
