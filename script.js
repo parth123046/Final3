@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
     const birthdays = [
        
-        { name: 'Alice Johnson', birthday: '06-02' },
-        { name: 'Alice Johnson', birthday: '06-02' },
+        { name: 'Alice Johnson', birthday: '05-02' },
+        { name: 'Alice Johnson', birthday: '05-02' },
         { name: 'AARVIKA KSHITI Targe', birthday: '02-03' },
         { name: 'ANAYRA ADITYA VENUGOPAL', birthday: '19-02' },
         { name: 'HARSHIT MANISH TATIYA', birthday: '21-04' },
