@@ -32,7 +32,30 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Girisha Kiran Nagpure', birthday: '31-03' },
         { name: 'Hridhaan Sagar Pardeshi', birthday: '21-05' },
         { name: 'Hruta Tushar Joshi', birthday: '10-05' },
-];
+        { name: 'Isha Amol Kumawat', birthday: '14-10' },
+        { name: 'Ishan Dhanraj Thepane', birthday: '27-07' },
+        { name: 'Kayra Abhiraj Pawar', birthday: '28-11' },
+        { name: 'Lavanya Patil', birthday: '27-09' },
+        { name: 'Mishka Nirajkumar Gupta', birthday: '30-01' },
+        { name: 'Naman Vijay Sharma', birthday: '11-07' },
+        { name: 'Neelansh Nirajkumar Gupta', birthday: '30-01' },
+        { name: 'Nyaree Nitesh Thakkar', birthday: '04-10' },
+        { name: 'Omkar Atmaram Sable', birthday: '12-08' },
+        { name: 'Parth Avinash Bhangre', birthday: '14-05' },
+        { name: 'Pragyan Piyush Lahoti', birthday: '29-12' },
+        { name: 'Rajeshwari Balaji Pingle', birthday: '30-05' },
+        { name: 'Rajveer Bharat Gite', birthday: '03-07' },
+        { name: 'Ramani Lasya Muthyala', birthday: '08-06' },
+        { name: 'Raumaan Mansuri', birthday: '07-10' },
+        { name: 'Reeva Amit Sethiya', birthday: '01-01' },
+        { name: 'Reeyansh Bhaulal Nagare', birthday: '19-04' },
+        { name: 'Rugved Nitin Sonawane', birthday: '11-09' },
+        { name: 'Rushi Sandeep Kapse', birthday: '24-12' },
+        { name: 'Sanvi Sachin Gambhire', birthday: '11-07' },
+   ];
+ 
+
+
     
     
 
