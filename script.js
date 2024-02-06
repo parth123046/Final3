@@ -52,7 +52,39 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Rugved Nitin Sonawane', birthday: '11-09' },
         { name: 'Rushi Sandeep Kapse', birthday: '24-12' },
         { name: 'Sanvi Sachin Gambhire', birthday: '11-07' },
-   ];
+        { name: 'Shivaanya Sangamesh Kupast', birthday: '14-02' },
+        { name: 'Shivaksh Yogesh Aher', birthday: '24-12' },
+        { name: 'Shivansh Amit Sonawane', birthday: '08-11' },
+        { name: 'Shivnya Sagar Khode', birthday: '16-07' },
+        { name: 'Shivtej Darshan Talikot', birthday: '19-02' },
+        { name: 'Shreejay Vijay Tile', birthday: '23-05' },
+        { name: 'Swara Vijay Nagare', birthday: '17-12' },
+        { name: 'Swayam Siddharth Bhogle', birthday: '12-12' },
+        { name: 'Aadya Jha', birthday: '31-03' },
+        { name: 'Aayra Virendra Lawande', birthday: '10-12' },
+        { name: 'Advira Vinayak Bachhav', birthday: '29-10' },
+        { name: 'Arjun Ashish Chaudhari', birthday: '31-01' },
+        { name: 'Arjun Yogesh Kapadnis', birthday: '21-06' },
+        { name: 'Maithili Dinesh Bramhankar', birthday: '14-05' },
+        { name: 'Reyansh Tanmay Hiran', birthday: '14-06' },
+        { name: 'Sanay Mukesh Harwani', birthday: '06-02' },
+        { name: 'Aalap Atul Ahirrao', birthday: '31-12' },
+        { name: 'Aayush Somnath Jejurkar', birthday: '02-03' },
+        { name: 'Abhipray Agnihotri', birthday: '25-05' },
+        { name: 'Advik Rohit Pagar', birthday: '20-02' },
+        { name: 'Aikanshaa Sunit Mhasade', birthday: '30-12' },
+        { name: 'Anjaneya Nayak', birthday: '04-09' },
+        { name: 'Anura Gupta', birthday: '14-02' },
+        { name: 'Arnav Shirish Malve', birthday: '28-04' },
+        { name: 'Arya Prashant Patil', birthday: '08-08' },
+        { name: 'Avanish Manoj Kale', birthday: '25-08' },
+        { name: 'Avisha Harish Godse', birthday: '25-10' },
+        { name: 'Lavanya Dhatrak', birthday: '25-01' },
+        { name: 'Manas Rajendra Bagul', birthday: '15-10' },
+        { name: 'Moulik Verma', birthday: '13-08' },
+];
+    
+   
  
 
 
