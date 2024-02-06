@@ -11,9 +11,31 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'ANUP AMOL GITE', birthday: '20-04' },
         { name: 'GARGI HANSRAJ DEORE', birthday: '27-05' },
         { name: 'HRIDYA SUMIT CHORDIYA', birthday: '15-12' },
-        { name: 'KAVISH PRAVIN GITE', birthday: '10-01' }
-    
+        { name: 'KAVISH PRAVIN GITE', birthday: '10-01' },
+        { name: 'Keyansh Abhishek Vedia', birthday: '07-02' },
+        { name: 'Manan Amit Chordiya', birthday: '11-02' },
+        { name: 'Pratishtha Raj Chundawat', birthday: '22-08' },
+        { name: 'Sarvesh Tushar Lahoti', birthday: '13-02' },
+        { name: 'Shivansh Jayesh Sonaje', birthday: '01-01' },
+        { name: 'Sia Yogesh Savadekar', birthday: '06-03' },
+        { name: 'Vidur Siddharth Rajgarhia', birthday: '25-09' },
+        { name: 'Keyansh Abhishek Vedia', birthday: '07-02' },
+        { name: 'Aarohi Shivaram Suryawanshi', birthday: '03-12' },
+        { name: 'Advita Sushil Shewale', birthday: '18-11' },
+        { name: 'Anay Sandeep Ishi', birthday: '02-09' },
+        { name: 'Apurva Suresh Patil', birthday: '11-10' },
+        { name: 'Arpita Rahul Desale', birthday: '03-09' },
+        { name: 'Atharv Shrikant Gond', birthday: '27-07' },
+        { name: 'Bhargav Ravindra Kamodkar', birthday: '02-06' },
+        { name: 'Dishant Sujit Jena', birthday: '17-12' },
+        { name: 'Divisha Yadav', birthday: '08-05' },
+        { name: 'Girisha Kiran Nagpure', birthday: '31-03' },
+        { name: 'Hridhaan Sagar Pardeshi', birthday: '21-05' },
+        { name: 'Hruta Tushar Joshi', birthday: '10-05' },
 ];
+    
+    
+
 
      
     
