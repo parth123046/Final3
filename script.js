@@ -82,7 +82,23 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Lavanya Dhatrak', birthday: '25-01' },
         { name: 'Manas Rajendra Bagul', birthday: '15-10' },
         { name: 'Moulik Verma', birthday: '13-08' },
+        { name: 'Rugveda Ravindra Chavan', birthday: '10-09' },
+        { name: 'Rutul Pravin Pawar', birthday: '20-04' },
+        { name: 'Saavi Yogesh Bhusare', birthday: '07-06' },
+        { name: 'Samiksha Saklani', birthday: '22-11' },
+        { name: 'Shaurya Abhay Malpure', birthday: '01-03' },
+        { name: 'Shlok Alok Kumar', birthday: '26-08' },
+        { name: 'Shloka Kumar', birthday: '03-10' },
+        { name: 'Shubhra Sandeep Patil', birthday: '24-05' },
+        { name: 'Swaroop Tushar Pagar', birthday: '13-08' },
+        { name: 'Varad Kishor Gite', birthday: '05-03' },
+        { name: 'Abhimanyu Atul Gosavi', birthday: '13-07' },
+        { name: 'Abhinav Vasant Pathave', birthday: '17-10' },
+        { name: 'Advika Amol Morankar', birthday: '13-02' },
+        { name: 'Ananya Shrikant Kumavat', birthday: '17-02' },
+        { name: 'Anwit Manoj Bhate', birthday: '10-12' },
 ];
+    
     
    
  
