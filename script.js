@@ -176,7 +176,29 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Anannya Yogesh Kolhe', birthday: '22-02' },
         { name: 'Aneya Bhushan Pingle', birthday: '19-03' },
         { name: 'Anvi Girish Bendkoli', birthday: '01-09' },
+        { name: 'Aryan Mahendra Ahire', birthday: '07-12' },
+        { name: 'Bhagwati Yogesh Jadhav', birthday: '05-11' },
+        { name: 'Chinmayi Hemant Ner', birthday: '12-09' },
+        { name: 'Divisha Singh', birthday: '15-07' },
+        { name: 'Garv Satti', birthday: '21-05' },
+        { name: 'Jatin Yogiraj Bhoye', birthday: '11-10' },
+        { name: 'Kshitij Ashish Gogawale', birthday: '26-04' },
+        { name: 'Manva Bhushan Ingale', birthday: '08-02' },
+        { name: 'Nahush Nikhil Kulkarni', birthday: '20-10' },
+        { name: 'Niket Pravin Padvi', birthday: '02-11' },
+        { name: 'Nishna Samantaray', birthday: '10-04' },
+        { name: 'Nyra Siddharth Rajgarhia', birthday: '20-11' },
+        { name: 'Ojal Pritesh Bora', birthday: '09-01' },
+        { name: 'Om Sachin Ilag', birthday: '28-06' },
+        { name: 'Palvit Ravindra Gangurde', birthday: '25-03' },
+        { name: 'Priyal Paresh Pawar', birthday: '24-08' },
+        { name: 'Raghav Dhananjay Sangle', birthday: '04-06' },
+        { name: 'Rajveer Hemant More', birthday: '22-04' },
+        { name: 'Saanvi Rajendra Kadam', birthday: '05-03' },
+        { name: 'Saumya Sunil Sangle', birthday: '06-01' },
 ];
+
+
 
 
     
