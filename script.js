@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const birthdays = [
        
+        
         { name: 'Alice Johnson', birthday: '05-02' },
         { name: 'Alice Johnson', birthday: '05-02' },
         { name: 'AARVIKA KSHITI Targe', birthday: '02-03' },
@@ -12,7 +13,6 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'GARGI HANSRAJ DEORE', birthday: '27-05' },
         { name: 'HRIDYA SUMIT CHORDIYA', birthday: '15-12' },
         { name: 'KAVISH PRAVIN GITE', birthday: '10-01' },
-        { name: 'Keyansh Abhishek Vedia', birthday: '07-02' },
         { name: 'Manan Amit Chordiya', birthday: '11-02' },
         { name: 'Pratishtha Raj Chundawat', birthday: '22-08' },
         { name: 'Sarvesh Tushar Lahoti', birthday: '13-02' },
