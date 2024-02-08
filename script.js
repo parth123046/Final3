@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Dwisha Digvijay Mandale', birthday: '17-09' },
         { name: 'Falak Sunil Jaiswal', birthday: '05-11' },
         { name: 'Hansika Pradeep Gangurde', birthday: '09-03' },
-        { name: 'Jeenal Rahul Patil', birthday: '13-06' },       { name: 'Jiyansh Pritesh Mutha', birthday: '23-06' },
+        { name: 'Jeenal Rahul Patil', birthday: '13-06' },       
         { name: 'Krita Siddharth Jain', birthday: '07-11' },
         { name: 'Mayank Rahul Kayastha', birthday: '14-03' },
         { name: 'Navya Nagariya', birthday: '16-06' },
@@ -246,6 +246,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Anshuman Pathak', birthday: '19-09' },
         { name: 'Anvi Ashish Patil', birthday: '27-01' },
         { name: 'Arya Shashikant Jaiswal', birthday: '03-06' },
+        { name: 'Jiyansh Pritesh Mutha', birthday: '23-06' },
 ];
 
 
