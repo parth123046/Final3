@@ -1,9 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
     const birthdays = [
-       
-        
-        { name: 'Alice Johnson', birthday: '05-02' },
-        { name: 'Alice Johnson', birthday: '05-02' },
         { name: 'AARVIKA KSHITI Targe', birthday: '02-03' },
         { name: 'ANAYRA ADITYA VENUGOPAL', birthday: '19-02' },
         { name: 'HARSHIT MANISH TATIYA', birthday: '21-04' },
@@ -247,31 +243,57 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Anvi Ashish Patil', birthday: '27-01' },
         { name: 'Arya Shashikant Jaiswal', birthday: '03-06' },
         { name: 'Jiyansh Pritesh Mutha', birthday: '23-06' },
+        { name: 'Sharanya Shubhangi Vijay Parik', birthday: '15-09' },
+    { name: 'Shlok Sharma', birthday: '01-09' },
+    { name: 'Swami Amol Kumawat', birthday: '16-10' },
+    { name: 'Swara Sachin Gite', birthday: '18-12' },
+    { name: 'Tiya Tushar Joshi', birthday: '14-07' },
+    { name: 'Vaishnavi Dattu Bunge', birthday: '18-10' },
+    { name: 'Viaan Vishal Lokhande', birthday: '29-04' },
+    { name: 'Vinayak Avinash Singh', birthday: '11-07' },
+    { name: 'Yuv Pankaj Rathod', birthday: '02-03' },
+    { name: 'Aadhya Rajesh Ojha', birthday: '12-04' },
+    { name: 'Aalok Vaibhav Sanap', birthday: '29-07' },
+    { name: 'Abhiraj Mayur Gite', birthday: '07-05' },
+    { name: 'Adira Yadav', birthday: '03-04' },
+    { name: 'Akansha Bhausaheb Pawar', birthday: '19-10' },
+    { name: 'Anmay Singh', birthday: '25-10' },
+    { name: 'Arav Samadhan Kshirsagar', birthday: '12-05' },
+    { name: 'Arham Jain', birthday: '18-05' },
+    { name: 'Avantika Gite', birthday: '28-10' },
+    { name: 'Avishka Atul Bhanshi', birthday: '06-02' },
+    { name: 'Dhairya Karan Shah', birthday: '14-08' },
+    { name: 'Durvank Amol Supe', birthday: '15-01' },
+    { name: 'Gaatha Bhushan Lunge', birthday: '02-01' },
+    { name: 'Janhvi Jaywant Dhomase', birthday: '01-01' },
+    { name: 'Malhar Vaibhav Borade', birthday: '18-01' },
+    { name: 'Maurya Bhushan Deore', birthday: '27-10' },
+    { name: 'Mehran Estyak Shaikh', birthday: '31-03' },
+    { name: 'Nahush Prashant Aher', birthday: '01-03' },
+    { name: 'Naitvik Sachin More', birthday: '18-06' },
+    { name: 'Ovee Narendrakumar Chavan', birthday: '05-05' },
+    { name: 'Rajveer Nitin Chavan', birthday: '13-09' },
+    { name: 'Rudra Ghansham Hire', birthday: '15-11' },
+    { name: 'Ruhi Manoj Tarachandani', birthday: '26-10' },
+    { name: 'Saanvi Pradip Mairale', birthday: '12-07' },
+    { name: 'Sanvi Sachin Pagar', birthday: '16-10' },
+    { name: 'Shivraj Harshal Bhore', birthday: '11-10' },
+    { name: 'Shravan Prashant Dhage', birthday: '18-01' },
+    { name: 'Shrisha Shrikant Suryawanshi', birthday: '11-03' },
+    { name: 'Swara Sandip Sonawane', birthday: '25-05' },
+    { name: 'Swaraj Kishor Pawar', birthday: '09-04' },
+    { name: 'Vansh Sandip Borase', birthday: '25-03' },
+    { name: 'Veronika Jaiswal', birthday: '12-10' },
+    { name: 'Vihaan Vishal Ochani', birthday: '13-07' },
+    { name: 'Vihan Mukund Kshirsagar', birthday: '22-02' },
+    { name: 'Yuvraj Yogesh Nagare', birthday: '14-11' },
+    { name: 'Aadya Deven Gosavi', birthday: '28-12' },
+    { name: 'Aara Sujit Ugaonkar', birthday: '07-08' },
+    { name: 'Aarya Ajay Khamkar', birthday: '07-07' },
+    { name: 'Agastya Harshad Jadhav', birthday: '05-04' },
+    { name: 'Ananya Ravindra Jadhav', birthday: '19-05' },
+    { name: 'Anay Kunal Dhurve', birthday: '25-04' }
 ];
-
-
-
-
-
-    
-
-    
-    
-   
- 
-
-
-    
-    
-
-
-     
-    
-
-        
-        
-   
-
     checkBirthdays(birthdays);
 });
 
