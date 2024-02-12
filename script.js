@@ -391,7 +391,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Parv Paresh Chordiya', birthday: '07-03' },
         { name: 'Pranika Nikhil Kulkarni', birthday: '31-08' },
         { name: 'Rudransh Ravindra Chavan', birthday: '17-09' },
-        { name: 'Ruhi Amol Khairnar', birthday: '27-08' },
+        { name: 'Ruhi Amol Khairnar', birthday: '27-08' }
 ];
     checkBirthdays(birthdays);
 });
