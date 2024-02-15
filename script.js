@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Arihan Upadhyay', birthday: '19-10' },
         { name: 'Dhara Vilas Kuwar', birthday: '20-12' },
         { name: 'Dnyanada Sachin Kotwal', birthday: '28-03' },
-            { name: 'Hridaya Yogesh Patil', birthday: '11-12' },
+        { name: 'Hridaya Yogesh Patil', birthday: '11-12' },
         { name: 'Jiyansh Mukesh Sunaria', birthday: '14-09' },
         { name: 'Kaira Aditya Karwa', birthday: '13-09' },
         { name: 'Kiyaan Parimal Sawant', birthday: '08-06' },
