@@ -440,12 +440,51 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Parv Paresh Chordiya', birthday: '07-03' },
         { name: 'Pranika Nikhil Kulkarni', birthday: '31-08' },
         { name: 'Rudransh Ravindra Chavan', birthday: '17-09' },
-        { name: 'Ruhi Amol Khairnar', birthday: '27-08' }
-        
-        
+        { name: 'Ruhi Amol Khairnar', birthday: '27-08' },
+        { name: 'Sanskruti Jayesh Sonaje', birthday: '24-06' },
+        { name: 'Shaurya Pankaj Palekar', birthday: '14-11' },
+        { name: 'Shlok Sameer Kesarkar', birthday: '01-03' },
+        { name: 'Shrisha Navnath Thube', birthday: '05-01' },
+        { name: 'Shubhra Anant Zole', birthday: '29-07' },
+        { name: 'Suhani Navdeep Ranjan', birthday: '24-12' },
+        { name: 'Suryansh Chahal', birthday: '30-11' },
+        { name: 'Swaraj Sachin Aher', birthday: '23-11' },
+        { name: 'Viaan Gill', birthday: '29-10' },
+        { name: 'Vihan Mitesh Jain', birthday: '22-04' },
+        { name: 'Vihan Vilas Deshmukh', birthday: '24-10' },
+        { name: 'Viraj Sudhir Mahajan', birthday: '29-06' },
+        { name: 'Aadvik Swarnkar', birthday: '02-11' },
+        { name: 'Aaradhya', birthday: '05-03' },
+        { name: 'Aarush Sachin Walse', birthday: '23-07' },
+        { name: 'Adhyayan Mahesh Badwe', birthday: '10-10' },
+        { name: 'Anaisha Shailesh Khatwar', birthday: '08-03' },
+        { name: 'Anish Shrikant Sonaje', birthday: '27-08' },
+        { name: 'Anusha Vikram Phadol', birthday: '11-02' },
+        { name: 'Anvay Kiran Kothule', birthday: '14-12' },
+        { name: 'Chinmay Dinesh Patil', birthday: '05-08' },
+        { name: 'Devarsh Kaustubh Pathak', birthday: '01-11' },
+        { name: 'Dhrumit Amit Shah', birthday: '12-04' },
+        { name: 'Hitansh Alai', birthday: '13-10' },
+        { name: 'Ishwari Atmaram Sable', birthday: '28-10' },
+        { name: 'Ishwari Rahul Hadpe', birthday: '24-03' },
+        { name: 'Jay Prasad Gujar', birthday: '07-09' },
+        { name: 'Kabir Sachdeva', birthday: '08-03' },
+        { name: 'Mitansh Nikhil Parakh', birthday: '22-06' },
+        { name: 'Myra Harshal Bedse', birthday: '23-06' },
+        { name: 'Neelayan Adhikary', birthday: '22-01' },
+        { name: 'Owi Ritesh Badhe', birthday: '25-03' },
+        { name: 'Pratham Bhaskar Waghere', birthday: '27-07' },
+        { name: 'Purvi Pankaj Bhalerao', birthday: '26-01' },
+        { name: 'Rugvi Ranjit Gawande', birthday: '04-02' }
     ];
 
-];
+        
+   
+        
+        
+    
+
+
     checkBirthdays(birthdays);
 });
 
