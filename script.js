@@ -475,8 +475,60 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Owi Ritesh Badhe', birthday: '25-03' },
         { name: 'Pratham Bhaskar Waghere', birthday: '27-07' },
         { name: 'Purvi Pankaj Bhalerao', birthday: '26-01' },
-        { name: 'Rugvi Ranjit Gawande', birthday: '04-02' }
-    ];
+        { name: 'Rugvi Ranjit Gawande', birthday: '04-02' },
+        { "name": "Saanvi Yogesh Aher", "birthday": "15-02" },
+        { "name": "Safal Sahil Patil", "birthday": "11-04" },
+        { "name": "Shaurya Umesh Tuppad", "birthday": "15-12" },
+        { "name": "Siddharth Pankaj Kokare", "birthday": "04-05" },
+        { "name": "Somya Hausare", "birthday": "06-10" },
+        { "name": "Sumukh Kiran Dokhale", "birthday": "01-06" },
+        { "name": "Swaraj Dattatray Deshmukh", "birthday": "07-05" },
+        { "name": "Swaroop Sachin Gambhire", "birthday": "08-06" },
+        { "name": "Tanmay Vishal Kasliwal", "birthday": "20-10" },
+        { "name": "Tirth Amit Purohit", "birthday": "18-10" },
+        { "name": "Shreyas Gopal Gaikwad", "birthday": "01-03" },
+        { "name": "Shruti Amol Dhatrak", "birthday": "15-08" },
+        { "name": "Spandan Yogesh Tadakhe", "birthday": "23-10" },
+        { "name": "Vaishnavi Dwivedi", "birthday": "23-07" },
+        { "name": "Vibha Piyush Lunawat", "birthday": "19-05" },
+        { "name": "Vidhi Sujit Jena", "birthday": "26-03" },
+        { "name": "Aaira Nitin Bashani", "birthday": "16-08" },
+        { "name": "Aakanksha Sudeep Bhambare", "birthday": "18-01" },
+        { "name": "Aditya Singh", "birthday": "16-02" },
+        { "name": "Advika Amit Deore", "birthday": "04-01" },
+        { "name": "Aradhya Vijay Tatiwar", "birthday": "21-11" },
+        { "name": "Arihant Abhishek Kasliwal", "birthday": "23-06" },
+        { "name": "Arnav Ashok Patil", "birthday": "29-10" },
+        { "name": "Arush Baranwal", "birthday": "15-12" },
+        { "name": "Bhuvi Goswami", "birthday": "02-01" },
+        { "name": "Dhairyasheel Vishal Pawar", "birthday": "02-01" },
+        { "name": "Durvesh Dinesh Dhatrak", "birthday": "18-06" },
+        { "name": "Gokul Dnyaneshwar Pawar", "birthday": "11-12" },
+        { "name": "Harsh Yogendra Rajput", "birthday": "27-10" },
+        { "name": "Harshvardhan Balaji Pingle", "birthday": "28-09" },
+        { "name": "Ishani Sanjay Chaudhari", "birthday": "27-11" },
+        { "name": "Jayesh Bhushan Chaudhari", "birthday": "16-09" },
+        { "name": "Jui Satish Wavhal", "birthday": "17-09" },
+        { "name": "Mayank Bhushan Patil", "birthday": "08-05" },
+        { "name": "Mayank Sanjay Bagul", "birthday": "29-07" },
+        { "name": "Nidhi Jaiswal", "birthday": "11-09" },
+        { "name": "Prajavan Amol Gangurde", "birthday": "18-02" },
+        { "name": "Prisha Ashwini Moolya", "birthday": "29-08" },
+        { "name": "Riya Mayur Modi", "birthday": "30-08" },
+        { "name": "Saee Sagar Jadhav", "birthday": "31-05" },
+        { "name": "Shashwat Sagar Dabhade", "birthday": "14-04" },
+        { "name": "Shaunak Samrat Pawar", "birthday": "27-12" },
+        { "name": "Shravani Sandeep Jadhav", "birthday": "04-08" },
+        { "name": "Soham Mukesh Pawar", "birthday": "29-10" },
+        { "name": "Spandan Yogesh Patil", "birthday": "26-11" },
+        { "name": "Swaranjali Sudam Dhatrak", "birthday": "25-04" },
+        { "name": "Tanishka Ramesh Surve", "birthday": "21-05" },
+];
+        
+    
+
+
+    
 
         
    
