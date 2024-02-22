@@ -342,10 +342,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Ridhit Parijeet Ghike', birthday: '17-05' },
         { name: 'Sachi Prasad Yeole', birthday: '23-09' },
         { name: 'Samarth Baghel', birthday: '19-01' },
-        { name: 'Shanaya Pravin Sanap', birthday: '09-05' }
-      
-       
-       
+        { name: 'Shanaya Pravin Sanap', birthday: '09-05' },
         { "name": "Saanvi Yogesh Aher", "birthday": "15-02" },
         { "name": "Safal Sahil Patil", "birthday": "11-04" },
         { "name": "Shaurya Umesh Tuppad", "birthday": "15-12" },
