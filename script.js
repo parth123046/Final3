@@ -643,7 +643,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { name: 'Tanishka Adhikrao Salunkhe', birthday: '23-03' },
     { name: 'Vedika Sashikant Sankhla', birthday: '09-06' },
 ];
-    ];
+    
 
     
 
