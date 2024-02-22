@@ -292,7 +292,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Aarya Ajay Khamkar', birthday: '07-07' },
         { name: 'Agastya Harshad Jadhav', birthday: '05-04' },
         { name: 'Ananya Ravindra Jadhav', birthday: '19-05' },
-        { name: 'Anay Kunal Dhurve', birthday: '25-04' }
+        { name: 'Anay Kunal Dhurve', birthday: '25-04' },
         { name: 'Aryan Chandrakant Giri', birthday: '23-03' },
         { name: 'Bhavin Vipul Chopada', birthday: '08-01' },
         { name: 'Divika Vijay Verma', birthday: '03-04' },
