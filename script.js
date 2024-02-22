@@ -442,12 +442,58 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Ananya Mayur Rajwade', birthday: '11-07' },
         { name: 'Ananya Sudeep Bhambare', birthday: '18-01' },
         { name: 'Ansh Vicky Agrawal', birthday: '21-07' },
-];
-
-
-
-     
-    checkBirthdays(birthdays);
+        { name: 'Anshita Yogesh Thorat', birthday: '14-07' },
+        { name: 'Arohi Kishor Pawar', birthday: '10-12' },
+        { name: 'Ashwin Anaji Pawar', birthday: '22-06' },
+        { name: 'Dhven Mahesh Dhadiwal', birthday: '08-08' },
+        { name: 'Essa Suhas Ghuge', birthday: '13-10' },
+        { name: 'Hansini Borade', birthday: '08-05' },
+        { name: 'Harsh Amol Sakale', birthday: '07-01' },
+        { name: 'Ilakshi Nitin Ahire', birthday: '21-05' },
+        { name: 'Ira Sameer Farate', birthday: '10-09' },
+        { name: 'Ishanya Dnyaneshwar Shitole', birthday: '14-05' },
+        { name: 'Krisha Rupesh Parakh', birthday: '24-07' },
+        { name: 'Manak Akhil Chatrath', birthday: '03-07' },
+        { name: 'Mehpreet Kaur Kohli', birthday: '17-01' },
+        { name: 'Mityaraj Sinh Parmar', birthday: '26-08' },
+        { name: 'Mrunali Anil Nagare', birthday: '04-06' },
+        { name: 'Naksh Mangesh Vispute', birthday: '22-06' },
+        { name: 'Navya Rupesh Waykole', birthday: '27-08' },
+        { name: 'Nitya Yadav', birthday: '24-09' },
+        { name: 'Perva Aayush Bora', birthday: '06-09' },
+        { name: 'Prarabdha Jadhav', birthday: '09-07' },
+        { name: 'Saksham Sujit Jadhav', birthday: '25-02' },
+        { name: 'Samartha Santosh Deokar', birthday: '03-10' },
+        { name: 'Sanskruti Santosh Jamdhade', birthday: '04-12' },
+        { name: 'Shriya Amol Pargaonkar', birthday: '14-03' },
+        { name: 'Tanishq Sandeep Jadhav', birthday: '01-09' },
+        { name: 'Tanmay Vilas Kumavat', birthday: '25-01' },
+        { name: 'Varun Kumar', birthday: '29-11' },
+        { name: 'Vedang Prashant More', birthday: '30-09' },
+        { name: 'Aagatya Saurabh Parmar', birthday: '29-09' },
+        { name: 'Aarav Atit Admulwar', birthday: '02-06' },
+        { name: 'Aarna Atul Thakare', birthday: '29-10' },
+        { name: 'Aastik Shah', birthday: '22-06' },
+        { name: 'Advet Amit Kele', birthday: '29-09' },
+        { name: 'Akshay Sachin Bhambere', birthday: '10-02' },
+        { name: 'Ananya Sandeep Ishi', birthday: '01-07' },
+        { name: 'Anmol Sharanabasappa Madiwalar', birthday: '03-06' },
+        { name: 'Arnav Borgude', birthday: '12-12' },
+        { name: 'Arnav Manish Mishra', birthday: '07-09' },
+        { name: 'Ashutosh Anil Dhatrak', birthday: '05-08' },
+        { name: 'Asmee Nilesh Bhavsar', birthday: '18-10' },
+        { name: 'Ayu Ashiwin Alodariya', birthday: '13-05' },
+        { name: 'Bhavika Sharma', birthday: '06-11' },
+        { name: 'Dhyey Prakashbhai Hirpara', birthday: '12-07' },
+        { name: 'Himank Bhavin Patel', birthday: '12-03' },
+        { name: 'Ishaq Shaikh', birthday: '01-01' },
+        { name: 'Krushna Bharat Gite', birthday: '07-06' },
+        { name: 'Manyata Tushar Patil', birthday: '29-07' },
+        { name: 'Neer Samirkumar Kaneriya', birthday: '31-12' },
+        { name: 'Nishad Pavan Shirure', birthday: '09-07' },
+        { name: 'Niyamat Kaur Brar', birthday: '19-12' }
+    ];
+     checkBirthdays(birthdays);
 });
 
 function checkBirthdays(data) {
@@ -479,3 +525,10 @@ function checkBirthdays(data) {
 
     document.getElementById('birthdayList').innerHTML = birthdayListHTML;
 }
+
+
+
+
+
+     
+   
