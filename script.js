@@ -1,7 +1,7 @@
 // Sample student data
 var students = [
   { name: "John Doe", email: "john@example.com", dob: "15/03" }, // DD/MM format
-  { name: "test", email: "parth.dube@dpsnashik.in, dob: "27/02" }, // DD/MM format
+  { name: "test", email: "parth.dube@dpsnashik.in", dob: "27/02" }, // DD/MM format
   { name: "Alice Johnson", email: "alice@example.com", dob: "10/12" } // DD/MM format
 ];
 
@@ -17,6 +17,11 @@ function sendBirthdayEmail(student) {
   .then(response => response.text())
   .then(data => {
     console.log('Email sent:', data);
+    // Update the list of sent students
+    var sentStudentsList = document.getElementById('sentStudents');
+    var listItem = document.createElement('li');
+    listItem.textContent = student.name;
+    sentStudentsList.appendChild(listItem);
   })
   .catch((error) => {
     console.error('Error:', error);
