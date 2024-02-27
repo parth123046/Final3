@@ -8,7 +8,7 @@ var students = [
 // Function to send birthday email
 function sendBirthdayEmail(student) {
   return new Promise((resolve, reject) => {
-    fetch('https://movers-san-francisco.com/email_sender.php', {
+    fetch('', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
